@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StudCalender</string>
+    <string name="action_add">Add Calendar</string>
+    <string name="action_showAll">Show Calendar</string>
+    <string name="action_nextDay">Next Day</string>
+    <string name="action_previousDay">Previous Day</string>
+</resources>
